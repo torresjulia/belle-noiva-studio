@@ -4,7 +4,7 @@ Landing page completa e responsiva para salão de beleza especializado em noivas
 
 ## ✨ Características
 
-- **Design Feminino e Sofisticado**: Paleta de cores romântica com rosé, nude, off-white e dourado
+- **Design Sofisticado e Acolhedor**: Paleta de cores clara e elegante com tons terrosos e dourados
 - **Totalmente Responsivo**: Mobile-first design para perfeita visualização em todos os dispositivos
 - **Performance Otimizada**: Built com Next.js 15 App Router e otimizações de imagem
 - **SEO Otimizado**: Metadata configurada para melhor indexação
@@ -13,11 +13,12 @@ Landing page completa e responsiva para salão de beleza especializado em noivas
 
 ## 🎨 Paleta de Cores
 
-- **Rosé**: `#f4a7b9` - Cor principal
-- **Nude/Bege**: `#e8d5c4` - Cor secundária
-- **Off-White**: `#fdf8f5` - Background
-- **Dourado**: `#c9a84c` - Detalhes
-- **Marrom Escuro**: `#3d2b1f` - Texto
+- **Off-White**: `#fdf8f5` - Background principal (quente e acolhedor)
+- **Surface**: `#ffffff` - Cards e superfícies (branco puro)
+- **Terracota**: `#7c4d2f` - Cor primária (sofisticado)
+- **Dourado**: `#c9a84c` - Detalhes e hovers
+- **Marrom Escuro**: `#2d1f14` - Texto principal
+- **Marrom Médio**: `#8c6e5a` - Texto secundário
 
 ## 📋 Seções
 
@@ -122,10 +123,10 @@ Este projeto está sob a licença MIT.
 
 ## 🤝 Contato
 
-Belle Noiva Studio - [@bellenoivastudio](https://instagram.com/bellenoivastudio)
+Belle Noiva Studio
 
 WhatsApp: (19) 99999-9999
 
 ---
 
-Desenvolvido com 💖 para transformar sonhos em realidade
+Desenvolvido com 💖 por [jt-studio](https://github.com/torresjulia) para transformar sonhos em realidade
