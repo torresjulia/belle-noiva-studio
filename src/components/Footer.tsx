@@ -109,9 +109,20 @@ export default function Footer() {
         </div>
 
         {/* Copyright */}
-        <div className="border-t border-primary/20 pt-8 text-center">
+        <div className="border-t border-primary/20 pt-8 text-center space-y-1">
           <p className="text-textSecondary">
             © 2025 Belle Noiva Studio — Todos os direitos reservados
+          </p>
+          <p className="text-textSecondary text-sm">
+            Desenvolvido por{" "}
+            <a
+              href="https://github.com/torresjulia"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-accent hover:text-primary transition-colors font-medium"
+            >
+              jt-studio
+            </a>
           </p>
         </div>
       </div>
